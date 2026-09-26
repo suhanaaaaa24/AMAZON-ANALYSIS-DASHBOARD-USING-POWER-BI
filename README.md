@@ -54,6 +54,6 @@ Shows customer information, regional orders, regional sales share, and payment m
 - `Amazon_Sales_Dashboard_Analysis (1).pptx` – Project presentation
 - `amazon_sales_dashboard_data (1).csv` – Dataset
 
-## Author
+Suhana Jaganath
 
 Power BI Sales Dashboard Project
